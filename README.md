@@ -1,23 +1,18 @@
-
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="500">
 
-# Datenkomptenzzentrum QUADRIGA
+## Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaften
 QUADRIGA ist das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft. Es wird durch die beiden Basiswissenschaften Informatik und Informationswissenschaft unterstützt. Dabei werden vier Disziplinen entlang der drei Datentypen Text, Tabelle und bewegtes Bild am Wissenschaftsstandort Berlin-Brandenburg vereint.
 
 # Verbundpartner
-![UP](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/214065a6-edda-4ef9-adc9-89f5bc86f65b)
-![FH-Potsdam](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/4a076e20-692f-4519-bbb4-df9b19e30633)
-![Filmuniversität_Babelsberg_KONRAD_WOLF](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/c34c50f3-9d64-4713-8a47-f64af1267ca7)
-![Fraunhofer-FOKUS-418136310](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/eed73da0-961d-4900-bd8b-4b09502ed5ef)
-![fu_logo](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/e738218b-1027-4948-b10d-bdaaa159a666)
-![Huberlin-logo svg](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/00a08c49-ae80-4d5b-a236-ceb5d7492435)
-![Technischen_Universität_Berlin svg](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/2f4ca8a0-6c42-4432-b4e7-65923c404b07)
-![Gesellschaft_für_Informatik_logo svg](https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/3a4026b4-944f-4271-b135-e5918665a143)
+Platzhalter für ein Bild mit den Logos
 
 # Laufzeit
 15. November 2023 -  14. November 2026
 
+# Förderung 
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/c955bdf2-4ff6-4d91-bb9d-16cd8aff4e06" width="300">
 
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/6871f9d6-a1d7-41c1-8f37-7242ee8cac73" width="300">
 
 
 
