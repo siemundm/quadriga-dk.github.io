@@ -3,36 +3,13 @@
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ quadriga-management@listserv.dfn.de }}">{{ quadriga-management@listserv.dfn.de }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
- <a href="mailto:quadriga-management@listserv.dfn.de"</a>
+ 
 
 
-    <img src="images/Foerderung_QUADRIGA.png" width="300">
 
+    <img src="images/Foerderung_QUADRIGA.png" width="400">
+
+    <a href="mailto:quadriga-management@listserv.dfn.de">Kontakt</a> | Impressum | Datenschutzerklärung
   </div>
 
 </footer>
