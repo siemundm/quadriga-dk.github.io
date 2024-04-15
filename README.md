@@ -18,5 +18,3 @@ Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Ver
 ### Laufzeit
 15. November 2023 -  14. November 2026
 
-### Förderung 
-<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/22746583-560a-47b4-8fb0-4fe26f169b8a" width="500">
