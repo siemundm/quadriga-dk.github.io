@@ -8,12 +8,13 @@ Die [**Forschungsorte**](forschungsorte.md) geben mittels Fallstudien zu den Dat
 
 Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Verbundpartnern besitzt QUADRIGA durch die Einbindung der jeweiligen Fachgesellschaften eine große Strahlkraft weit über die Grenzen des Wissenschaftsstandortes Berlin-Brandenburg hinaus. Charakteristisch ist die gelebte digitale Datenkultur im Forschungsalltag durch die Bündelung der Vielfalt und Erweiterung der methodischen Basis und systematischer Kompetenzentwicklung rund um die Datentypen Text, Tabelle und bewegtes Bild. 
 
-### Verbundpartner
+### **Verbundpartner**
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/bdd18bd6-55f8-453f-8d97-cc0b213948ac" width="600">
 
-### Laufzeit
+### **Laufzeit**
 15. November 2023 -  14. November 2026
 
 ### Förderung
 Das Datenkompetenzzentrum QUADRIGA wird gefördert im Rahmen der Richtlinie zur Förderung von Projektem zum **Aufbau von Datenkompetenzzentren in der Wissenschaft** des Bildungsministeriums für Bildung und Forschung.
+</br></br>
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/85f6e9d9-6b62-4f51-b091-b2c9affa667b" width="400">
