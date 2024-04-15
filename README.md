@@ -14,7 +14,6 @@ In den Vernetzungsorten wird zwischen allgemeinen datenwissenschaftlichen Prinzi
 Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Verbundpartnern besitzt QUADRIGA durch die Einbindung der jeweiligen Fachgesellschaften eine große Strahlkraft weit über die Grenzen des Wissenschaftsstandortes Berlin-Brandenburg hinaus. Charakteristisch ist die gelebte digitale Datenkultur im Forschungsalltag durch die Bündelung der Vielfalt und Erweiterung der methodischen Basis und systematischer Kompetenzentwicklung rund um die Datentypen Text, Tabelle und bewegtes Bild. 
 
 ### Verbundpartner
-Platzhalter für ein Bild mit den Logos
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/bdd18bd6-55f8-453f-8d97-cc0b213948ac" width="600">
 
 ### Laufzeit
