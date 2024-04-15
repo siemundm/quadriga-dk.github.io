@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aktuelles
-permalink: /vernetzungsorte/
+permalink: /aktuelles/
 ---
 
 Aktuelles
