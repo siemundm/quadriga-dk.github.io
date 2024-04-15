@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QUADRIGA gestartet"
+title: "Datenkompetenzzentrum QUADRIGA gestartet"
 date: 2023-11-15
 ---
 
