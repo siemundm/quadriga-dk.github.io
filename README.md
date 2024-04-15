@@ -1,4 +1,4 @@
-<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="500">
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="400">
 
 
 ### Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaften
@@ -15,6 +15,7 @@ Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Ver
 
 ### Verbundpartner
 Platzhalter für ein Bild mit den Logos
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/bdd18bd6-55f8-453f-8d97-cc0b213948ac" width="600">
 
 ### Laufzeit
 15. November 2023 -  14. November 2026
