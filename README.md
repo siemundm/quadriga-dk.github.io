@@ -1,6 +1,5 @@
-<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="400">
-
-
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="500">\
+\
 ### **Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaften**
 
 QUADRIGA ist das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft. Es wird durch die beiden Basiswissenschaften Informatik und Informationswissenschaft unterstützt. Dabei werden vier Disziplinen entlang der drei Datentypen Text, Tabelle und bewegtes Bild am Wissenschaftsstandort Berlin-Brandenburg vereint. Der inhaltliche Ansatz von QUADRIGA führt Forschungs-, Lern- und Vernetzungsorte über datenbasierte Fallstudien und Bildungsangebote zusammen. So werden für Forscher*innen aller Karrierestufen Ressourcen für den souveränen Umgang mit Daten im Forschungsalltag geschaffen.
