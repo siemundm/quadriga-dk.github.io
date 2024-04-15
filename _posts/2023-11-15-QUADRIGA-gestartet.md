@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QUADRIGA gestartet
+title: "QUADRIGA gestartet"
 date: 2023-11-15
 ---
 
