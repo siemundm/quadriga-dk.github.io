@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 title: Aktuelles
 permalink: /aktuelles/
 ---
