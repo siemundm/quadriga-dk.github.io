@@ -14,7 +14,7 @@ Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Ver
 ### **Laufzeit**
 15. November 2023 -  14. November 2026
 
-### Förderung
+### **Förderung**
 Das Datenkompetenzzentrum QUADRIGA wird gefördert im Rahmen der Richtlinie zur Förderung von Projektem zum **Aufbau von Datenkompetenzzentren in der Wissenschaft** des Bildungsministeriums für Bildung und Forschung.
 
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/85f6e9d9-6b62-4f51-b091-b2c9affa667b" width="400">
