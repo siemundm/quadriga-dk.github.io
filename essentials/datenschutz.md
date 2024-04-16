@@ -1,0 +1,4 @@
+---
+layout: page
+title: Datenschutzerklärung
+---
