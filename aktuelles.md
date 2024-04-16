@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Aktuelles
 permalink: /aktuelles/
 ---
@@ -12,5 +12,5 @@ permalink: /aktuelles/
   {% endfor %}
 </ul>
 
-
+xxx
 
