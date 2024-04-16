@@ -13,4 +13,3 @@ permalink: /aktuelles/
   {% endfor %}
 </ul>
 
-test02
