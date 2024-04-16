@@ -7,13 +7,14 @@ permalink: /aktuelles/
 <ul>
   {% for post in site.posts %}
     <p>
+      <a href="{{ post.date }}"></a><br>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
-  </p>
+        </p>
   {% endfor %}
 </ul>
 
 
-Mal schauen ob das klappt:
+Mal schauen ob das klappt: xxx
 
 
 <ul>
