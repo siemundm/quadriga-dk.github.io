@@ -1,1 +1,4 @@
-
+---
+title: Datenschutzerklärung
+permalink: /datenschutz/
+---
