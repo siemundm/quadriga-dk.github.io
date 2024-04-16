@@ -1,4 +1,0 @@
----
-title: Impressum
-permalink: /impressum/
----
