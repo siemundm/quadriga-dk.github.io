@@ -4,17 +4,10 @@ title: About
 permalink: /about/
 ---
 
-QUADRIGA ist das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft. Es wird durch die beiden Basiswissenschaften Informatik und Informationswissenschaft unterstützt. Dabei werden vier Disziplinen entlang der drei Datentypen Text, Tabelle und bewegtes Bild am Wissenschaftsstandort Berlin-Brandenburg vereint. Der inhaltliche Ansatz von QUADRIGA führt Forschungs-, Lern- und Vernetzungsorte über datenbasierte Fallstudien und Bildungsangebote zusammen. So werden für Forscher*innen aller Karrierestufen Ressourcen für den souveränen Umgang mit Daten im Forschungsalltag geschaffen.
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/5c12adcd-43c0-4f45-908b-a83dd00af81f" width="400">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### **Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaften**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/3e2a1fdb-1a2b-44c0-8948-06b07bd609f6" width="600" align="center">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Der inhatliche Ansatz von QUADRIGA führt Forschung-, Lern- und Vernetzungsorte üder datenbasierte Fallstudien und Bildungsangebote zusammen. Die Forschungsorte folgen dem Datenfluss unter Brücksichtigung der FAIR-Prinzipien und des jeweiligen Grades an FAIRness. Im Fokus stehen die Datentypen Text, Tabelle und Bewegtes Bild aus den Anwendungsdomänen Digital Humanities und Verwaltungswissenschaft, unterstützt durch die beiden Basiswissenschaften Informatik und Informationswissenschaft. Methodisch umgesetzt werden die Anwendungsszenarien aus den Forschungsorten durch prototypische Fallstudien, die repräsentative Datensammlungen, -typen, -methoden und -werkzeuge berücksichtigen. In den Lernorten werden die Ergebnisse aus den Fallstudien in konkrete Bildungsnagebote übersetzt. Als Zielgruppen von QUADRIGA werden zuvorderst promovierende und promovierte Wissenschaftler:innen aller Karrierestufen aus den o.g. Disziplinen adressiert, die in ihrem wissenschaftlichen Alltag den Umgang mit digitalen Daten, Methoden und Werkzeugen erlernen und weiterentwickeln. Methodisch steht für die Bildungsangebote das problembasierte Lernen im Vordergrund, welches die Interaktivität und die Lösungskompetenz fördert. Die Brücke zwischen Forschungs- und Lernorten bildet ein Assessment, im Sinne einer prozessbegleitenden Wirkungsanalyse zur steten Bewertung des Kompetenzerwerbs. In den Vernetzungsorten erfolgt die regionale und fachliche Einbindung von relevanten Akteuren für den multilateralen Austausch und die Wissenschaftskommunikation. QUADRIGA vereint den Wissenschaftsstandort Berlin-Brandenburg mit den Universitäten TU Berlin, FU Berlin und HU Berlin sowie dem Fraunhofer-Institut FOKUS in Berlin und in Brandenburg für das Forschungsdatenmanagement zuständigen Hochschulen UP und FHP sowie die einzige Filmuniversitätin Deutschland, die FB. Ergänzt wird der Partnerverbund durch die direkte Einbindung der vier relevanten Fachgesellschaften bzw. Verbände: Digital Humanities im deutschsprachigen Raum (DHd Verband) für die Anwendungsdomäne Digital Humanities, Nationales e-Government Kompetenzzentrum (NEGZ) für die Anwendungsdomäne Verwaltungswissenschaft, Gesellschaft für Informatik (GI) für die Basiswissenschaft Informatik und der Hochschulverband Informationswissenschaft e. V. (HI) für die Basiswissenschaft Informationswissenschaft. Mit QUADRIGA entstehen für Wissenschaft, Gesellschaft, Politik und Verwaltung auf Dauerhaftigkeit ausgerichtete Begegnungsräume zur Erfassung, Aufbereitung, Nutzung und Analyse von Daten in einer zunehmend digitalisierten Welt. Ein weiteres Arbeitspaekt widmet sich neben dem Projektmanagement dem Thema der Verstetigung und hat damit die (institutionelle) Nachhaltigkeit von QUADRIGA im Fokus.
