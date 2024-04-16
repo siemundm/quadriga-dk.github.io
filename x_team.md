@@ -10,4 +10,5 @@ Inhaltliche Verbundleitung
 
 Administrative Verbundleitung
 
-bei Fragen zu quadriga wenden Sie sich an:
+bei Fragen zu quadriga wenden Sie sich an: <quadriga-management@listserv.dfn.de>
+
