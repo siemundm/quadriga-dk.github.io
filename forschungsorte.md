@@ -4,4 +4,4 @@ title: Forschungsorte
 permalink: /forschungsorte/
 ---
 
-Forschungsorte
+Erfahren Sie hier zeitnah mehr über die Forschungsorte in QUADRIGA.
