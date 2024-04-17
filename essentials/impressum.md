@@ -2,7 +2,8 @@
 layout: page
 ---
 
-### **Impressum**
+ 
+ **Impressum**
 
 Die Webpräsenz für das Datenkompetenzzentrum **QUADRIAG** wird inhaltlich verantwort von:
 Universität Potsdam (Verbundkoordinator)
