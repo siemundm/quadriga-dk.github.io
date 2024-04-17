@@ -6,9 +6,5 @@ permalink: /team/
 
 Lernen Sie das Team im Datenkompetenzzentrum QUADRIGA kennen:
 
-Inhaltliche Verbundleitung
-
-Administrative Verbundleitung
-
-bei Fragen zu quadriga wenden Sie sich an: <quadriga-management@listserv.dfn.de>
+bei Fragen zu QUADRIGA schreiben Sie uns ein Mail: <quadriga-management@listserv.dfn.de>
 
