@@ -4,4 +4,4 @@ title: Lernorte
 permalink: /lernorte/
 ---
 
-Lernorte
+Erfahren Sie hier zeitnah mehr über die Lernorte in QUADRIGA.
