@@ -1,5 +1,5 @@
 <header class="site-header">
- <b>
+ <small>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -30,6 +30,6 @@
       </nav>
     {%- endif -%}
   </div>
-  </b>
+  </small>
    
 </header>
