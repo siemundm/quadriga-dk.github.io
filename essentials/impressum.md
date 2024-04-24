@@ -5,7 +5,7 @@ layout: page
  
  **Impressum**
 
-Die Webpräsenz für das Datenkompetenzzentrum **QUADRIAG** wird inhaltlich verantwort von:  
+Die Webpräsenz für das Datenkompetenzzentrum **QUADRIGA** wird inhaltlich verantwort von:  
 Universität Potsdam (Verbundkoordinator)  
 Potsdam Graduate School  
 Dr. Bettina Buchholz & Dr. Robin Möser  
