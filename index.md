@@ -9,7 +9,7 @@ Die [**Forschungsorte**](forschungsorte.md) geben mittels Fallstudien zu den Dat
 Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Verbundpartnern besitzt QUADRIGA durch die Einbindung der jeweiligen Fachgesellschaften eine große Strahlkraft weit über die Grenzen des Wissenschaftsstandortes Berlin-Brandenburg hinaus. Charakteristisch ist die gelebte digitale Datenkultur im Forschungsalltag durch die Bündelung der Vielfalt und Erweiterung der methodischen Basis und systematischer Kompetenzentwicklung rund um die Datentypen Text, Tabelle und bewegtes Bild. 
 
 ### **Verbundpartner**
-<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/bdd18bd6-55f8-453f-8d97-cc0b213948ac" width="600">
+<img src="images/QUADRIGA_Logos.png" width="600">
 
 ### **Laufzeit**
 15. November 2023 -  14. November 2026
