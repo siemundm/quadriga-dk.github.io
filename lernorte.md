@@ -4,4 +4,4 @@ title: Lernorte
 permalink: /lernorte/
 ---
 
-Erfahren Sie hier zeitnah mehr über die Lernorte in QUADRIGA.
+In den Lernorten werden aus den Fallstudien konkrete Bildungsangebote erstellt und durchgeführt. Das Ziel der Bildungsangebote ist, Forschenden aller Karrierestufen disziplinnah Datenkompetenz in orts- und zeitunabhängiger Weiterbildung zu vermitteln.
