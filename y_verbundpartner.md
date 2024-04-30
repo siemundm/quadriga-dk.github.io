@@ -4,4 +4,4 @@ title: Verbundpartner
 permalink: /verbundpartner/
 ---
 
-<img src="[https://github.com/quadriga-dk/quadriga-dk.github.io/blob/main/images/QUADRIGA_Logos.png)]" width="600">
+<img src="https://github.com/quadriga-dk/quadriga-dk.github.io/blob/main/images/QUADRIGA_Logos.png" widht="600">
