@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auftaktsymposium QUADRIGA"
+title: "Auftaktveranstaltung QUADRIGA"
 date: 2024-06-05
 ---
 
