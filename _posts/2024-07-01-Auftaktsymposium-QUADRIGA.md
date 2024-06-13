@@ -4,7 +4,7 @@ title: "Auftaktveranstaltung QUADRIGA"
 date: 2024-06-12
 ---
 
-**Save-the-Date:** Auftaktveranstaltung des Datenkompetenzzentrums QUADRIGA am **01. Juli 2024**
+**Save-the-Date: 01. Juli 2024** Auftaktveranstaltung des Datenkompetenzzentrums QUADRIGA 
  
 Wie lässt sich Datenkompetenz in heterogene geisteswissenschaftliche Zielgruppen vermitteln? Wie lassen sich hierfür Open Educational Resources nutzen? Und welchen Beitrag können die [Datenkompetenzzentren](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzzentren_für_die_wissenschaft_ordner/datenkompetenzzentren_fuer_die_wissenschaft_node.html) leisten um hier einen Kulturwandel herbeizuführen?
  
