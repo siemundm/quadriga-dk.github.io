@@ -6,5 +6,4 @@ permalink: /output/
 
 QUADRIGA Aktivitäten
 
-[Umsetzungskonzept QUADRIGA: Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaft, Informatik und Informationswissenschaft]([url](https://zenodo.org/records/10805016))
-
+<a href="https://zenodo.org/records/10805016">Umsetzungskonzept QUADRIGA: Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaft, Informatik und Informationswissenschaft</a>
