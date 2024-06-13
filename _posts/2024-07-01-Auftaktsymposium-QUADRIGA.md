@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auftaktveranstaltung QUADRIGA"
-date: 2024-07-01
+date: 2024-06-12
 ---
 
 **Save-the-Date:** Auftaktveranstaltung des Datenkompetenzzentrums QUADRIGA
