@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pressemitteilung HU Berlin"
+title: "Pressemitteilung FU Berlin"
 date: 2023-12-21
 ---
 Pressemitteilung der FU Berlin:  
